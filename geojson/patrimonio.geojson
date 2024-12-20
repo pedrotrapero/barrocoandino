@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "patrimonio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "museo ritos andinos, taller joyería kamaq maki", "y longitud": -71.67739838, "x latitud": -13.67446399, "tipo": "Museos" }, "geometry": { "type": "Point", "coordinates": [ -71.677398384, -13.674463991 ] } },
+{ "type": "Feature", "properties": { "name": "puente colonial", "y longitud": -71.73644252, "x latitud": -13.63499041, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.736442521, -13.634990406 ] } },
+{ "type": "Feature", "properties": { "name": "casa conservada", "y longitud": -71.67664938, "x latitud": -13.67401117, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.676649377, -13.674011167 ] } },
+{ "type": "Feature", "properties": { "name": "casa restaurada?", "y longitud": -71.6752428, "x latitud": -13.6734659, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.6752428, -13.6734659 ] } },
+{ "type": "Feature", "properties": { "name": "solo fachada antigua", "y longitud": -71.64108664, "x latitud": -13.68984061, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.641086638, -13.689840606 ] } },
+{ "type": "Feature", "properties": { "name": "casa hacienda", "y longitud": -71.64109569, "x latitud": -13.6905426, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.64109569, -13.690542599 ] } },
+{ "type": "Feature", "properties": { "name": "Laguna orucs", "y longitud": -71.63417861000001, "x latitud": -13.68738606, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.634178609, -13.687386058 ] } },
+{ "type": "Feature", "properties": { "name": "laguna de Urcos", "y longitud": -71.63093917, "x latitud": -13.68787241, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.630939171, -13.687872409 ] } },
+{ "type": "Feature", "properties": { "name": "bajada a la laguna de Urcos", "y longitud": -71.63518142, "x latitud": -13.68714728, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.63518142, -13.687147279 ] } },
+{ "type": "Feature", "properties": { "name": "Restos de ciudadela Wari", "y longitud": -71.63598474, "x latitud": -13.68720722, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.635984741, -13.687207218 ] } },
+{ "type": "Feature", "properties": { "name": "hacienda marabamba", "y longitud": -71.673132, "x latitud": -13.67735586, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.673131995, -13.677355857 ] } },
+{ "type": "Feature", "properties": { "name": "casa hacienda del calvario", "y longitud": -71.67617429000001, "x latitud": -13.67571919, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.67617429, -13.67571919 ] } },
+{ "type": "Feature", "properties": { "name": "cementerio nievo", "y longitud": -71.68477781, "x latitud": -13.67205066, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.684777811, -13.672050656 ] } },
+{ "type": "Feature", "properties": { "name": "cementerio antiguo", "y longitud": -71.68416694, "x latitud": -13.6725429, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.684166938, -13.672542902 ] } },
+{ "type": "Feature", "properties": { "name": "fabricas de tejas con ramas de eucalipto", "y longitud": -71.68722767, "x latitud": -13.64851673, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.687227674, -13.648516731 ] } },
+{ "type": "Feature", "properties": { "name": "laguna_urcos", "y longitud": -71.63096331, "x latitud": -13.6880646, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.630963311, -13.688064604 ] } },
+{ "type": "Feature", "properties": { "name": "mirador_cielo_punku", "y longitud": -71.63836654000001, "x latitud": -13.68586673, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.638366543, -13.685866733 ] } }
+]
+}

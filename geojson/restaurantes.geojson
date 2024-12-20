@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "restaurantes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "café, alpaca souvenirs", "y longitud": -71.67727232, "x latitud": -13.67434248, "tipo": "Resta" }, "geometry": { "type": "Point", "coordinates": [ -71.67727232, -13.674342478 ] } },
+{ "type": "Feature", "properties": { "name": "Restaurante menú", "y longitud": -71.64090861, "x latitud": -13.68946795, "tipo": "Resta" }, "geometry": { "type": "Point", "coordinates": [ -71.640908606, -13.689467947 ] } },
+{ "type": "Feature", "properties": { "name": "restaurante Karina I", "y longitud": -71.62659869, "x latitud": -13.68805451, "tipo": "Resta" }, "geometry": { "type": "Point", "coordinates": [ -71.626598686, -13.688054505 ] } }
+]
+}

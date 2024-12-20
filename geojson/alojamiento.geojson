@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "alojamiento",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "hospedaje y restaurante el nogal", "y longitud": -71.67737827000001, "x latitud": -13.67316481, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.677378267, -13.673164807 ] } },
+{ "type": "Feature", "properties": { "name": "Casa del sol, eventos y hotel", "y longitud": -71.67752009, "x latitud": -13.67300974, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.677520089, -13.673009738 ] } },
+{ "type": "Feature", "properties": { "name": "quinta campestre", "y longitud": -71.72969442, "x latitud": -13.63187874, "tipo": "Hotel" }, "geometry": { "type": "Point", "coordinates": [ -71.729694419, -13.631878736 ] } },
+{ "type": "Feature", "properties": { "name": "hospedaje", "y longitud": -71.62518617000001, "x latitud": -13.68868223, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.625186168, -13.688682232 ] } }
+]
+}

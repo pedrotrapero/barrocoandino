@@ -1,0 +1,13 @@
+/* Ajusta el contenedor del mapa */
+#map {
+    width: 100%;
+    height: 100vh;
+    border: 1px solid #ccc;
+}
+
+/* Personaliza las ventanas emergentes */
+.leaflet-popup-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+}

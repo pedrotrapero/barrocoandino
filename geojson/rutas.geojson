@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "rutas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "ingreso huacarpay", "y longitud": -71.73564825, "x latitud": -13.61102624, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.735648252, -13.611026236 ] } },
+{ "type": "Feature", "properties": { "name": "ingreso circuito ciclístico", "y longitud": -71.73563551, "x latitud": -13.61038168, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.735635512, -13.610381684 ] } },
+{ "type": "Feature", "properties": { "name": "paradero huaro Urcos", "y longitud": -71.64172903, "x latitud": -13.69097161, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.641729027, -13.690971612 ] } },
+{ "type": "Feature", "properties": { "name": "paradero Urcos Huaro", "y longitud": -71.6264277, "x latitud": -13.68751343, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.626427695, -13.687513428 ] } },
+{ "type": "Feature", "properties": { "name": "Camino a la mano", "y longitud": -71.63722493, "x latitud": -13.68687788, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.637224928, -13.68687788 ] } },
+{ "type": "Feature", "properties": { "name": "Camino a Yutto", "y longitud": -71.690684, "x latitud": -13.6805254, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.690684, -13.6805254 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista C1", "y longitud": -71.66791175, "x latitud": -13.67104368, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.667911746, -13.67104368 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B97", "y longitud": -71.65423784, "x latitud": -13.6733404, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.654237844, -13.673340399 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B98", "y longitud": -71.65465795, "x latitud": -13.67288106, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.654657945, -13.672881057 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B 99", "y longitud": -71.65629476, "x latitud": -13.67309477, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.656294763, -13.673094765 ] } },
+{ "type": "Feature", "properties": { "name": "desvío a acopampa", "y longitud": -71.66154351, "x latitud": -13.67215328, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.661543511, -13.672153275 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B  100", "y longitud": -71.66722409, "x latitud": -13.67615507, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.667224094, -13.676155071 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B1", "y longitud": -71.6412349, "x latitud": -13.6911657, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.6412349, -13.6911657 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B 3", "y longitud": -71.6501344, "x latitud": -13.6812429, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.6501344, -13.681242895 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B2", "y longitud": -71.64933711, "x latitud": -13.68034737, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.649337113, -13.680347371 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista B1", "y longitud": -71.6480349, "x latitud": -13.68064382, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.6480349, -13.680643816 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista 3", "y longitud": -71.652338, "x latitud": -13.6768351, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.652338, -13.6768351 ] } },
+{ "type": "Feature", "properties": { "name": "ruta ciclista 2", "y longitud": -71.6469306, "x latitud": -13.681259, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.6469306, -13.681259 ] } },
+{ "type": "Feature", "properties": { "name": "Ruta ciclista 1", "y longitud": -71.637815, "x latitud": -13.6917698, "tipo": "Rutas" }, "geometry": { "type": "Point", "coordinates": [ -71.637815, -13.6917698 ] } }
+]
+}
