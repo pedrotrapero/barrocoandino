@@ -8,12 +8,22 @@
     <style>
         #map {
             width: 80%;
-            height: 100vh; /* El mapa ocupa toda la altura de la ventana */
+            height: 80vh; /* El mapa ocupa toda la altura de la ventana */
+        }
+        #coordinates {
+            height: 10vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            border-top: 1px solid #ddd;
         }
     </style>
 </head>
 <body>
     <div id="map"></div>
+    <div id="coordinates">Mueve el cursor sobre el mapa para ver las coordenadas</div>
     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"></script>
     <script type="module" src="js/main.js"></script>
 </body>
