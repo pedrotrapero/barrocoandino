@@ -25,8 +25,8 @@ const layerControl = L.control.layers({
 // Configuración de capas GeoJSON
 const geojsonConfigs = [
     {
-        url: './geojson/alojamiento.geojson', // Ruta relativa al archivo GeoJSON
-        layerName: 'Capa GeoJSON 1',
+        url: './geojson/administracion.geojson', // Ruta relativa al archivo GeoJSON
+        layerName: 'Administración pública y servicios del Estado',
         style: {
             radius: 10,
             fillColor: "#007BFF",
@@ -37,8 +37,8 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/iglesias.geojson',
-        layerName: 'Capa GeoJSON 2',
+        url: './geojson/alimentacion.geojson',
+        layerName: 'Alimentación y bebida (gastronomía)',
         style: {
             radius: 10,
             fillColor: "#FF5733",
@@ -49,8 +49,8 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/patrimonio.geojson',
-        layerName: 'Capa GeoJSON 3',
+        url: './geojson/alojamiento.geojson',
+        layerName: 'Alojamiento',
         style: {
             radius: 10,
             fillColor: "#28A745",
@@ -61,8 +61,8 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/restaurantes.geojson',
-        layerName: 'Capa GeoJSON 3',
+        url: './geojson/comercio.geojson',
+        layerName: 'Comercio y servicios privados',
         style: {
             radius: 10,
             fillColor: "#FFC107",
@@ -73,8 +73,8 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/rutas.geojson',
-        layerName: 'Capa GeoJSON 3',
+        url: './geojson/educacion.geojson',
+        layerName: 'Educación',
         style: {
             radius: 10,
             fillColor: "#FD7E14",
@@ -85,8 +85,8 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/servicios.geojson',
-        layerName: 'Capa GeoJSON 3',
+        url: './geojson/movilidad.geojson',
+        layerName: 'Movilidad, accesos e infraestructura',
         style: {
             radius: 10,
             fillColor: "#6F42C1",
@@ -97,11 +97,47 @@ const geojsonConfigs = [
         }
     },
     {
-        url: './geojson/gestion.geojson',
-        layerName: 'Capa GeoJSON 3',
+        url: './geojson/naturaleza.geojson',
+        layerName: 'Naturaleza y miradores (paisaje)',
         style: {
             radius: 10,
             fillColor: "#E83E8C",
+            color: "#155724",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 1
+        }
+    },
+        {
+        url: './geojson/patrimonio.geojson',
+        layerName: 'Patrimonio cultural y arqueológico',
+        style: {
+            radius: 10,
+            fillColor: "#640808",
+            color: "#155724",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 1
+        }
+    },
+        {
+        url: './geojson/religioso.geojson',
+        layerName: 'Religioso',
+        style: {
+            radius: 10,
+            fillColor: "#277b26",
+            color: "#155724",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 1
+        }
+    },
+        {
+        url: './geojson/salud.geojson',
+        layerName: 'Salud y bienestar',
+        style: {
+            radius: 10,
+            fillColor: "#94bec9",
             color: "#155724",
             weight: 1,
             opacity: 1,
@@ -118,9 +154,10 @@ geojsonConfigs.forEach(config => {
 const puntosFijos = [
     {
         coords: [-13.51634, -71.97789],
-        titulo: 'Catedral de Cuzco',
-        descripcion: 'La Catedral de Cuzco, construida entre los siglos XVI y XVII, es una obra maestra del Barroco Andino situada en la Plaza de Armas. Destaca por su imponente fachada de piedra y su interior, decorado con altares de pan de oro y una valiosa colección de arte cusqueño. Entre sus obras más famosas está "La Última Cena" de Marcos Zapata. Esta catedral fusiona lo inca y lo europeo, representando el mestizaje cultural y la espiritualidad de la época colonial',
-        imagen: 'https://www.inkanmilkyway.com/wp-content/uploads/2022/10/catedral-del-cusco-peru-4.jpg'
+        titulo: 'Templo La Compañía De Jesús de Cusco',
+        descripcion: 'Comenzó a construirse en 1576 sobre el templo inca Amaru Cancha, y se reconstruyó en su totalidad después de un fuerte sismo que afectó a la ciudad en 1650. De planta en forma de cruz latina, su fachada es de piedra profusamente decorada, tiene dos grandes torres y dos capillas anexas. La arquitectura del templo sirvió de modelo para otros muchos templos que se construyeron en el sur andino. En la fachada se observa una portada-retablo de tres cuerpos y tres calles, encajonado entre sus dos esbeltas torres campanario, que han servido de modelo para muchos otros templos cusqueños. Las dos torres son lisas y pulidas en su parte inferior, que contrasta con la rica decoración en la parte.En su interior conserva uno de los más imponentes Altares Mayores de madera de cedro tallada y cubierto de pan de oro, de 21 m de alto',
+        imagen: 'https://www.inkanmilkyway.com/wp-content/uploads/2022/10/catedral-del-cusco-peru-4.jpg',
+        enlace: 'https://maps.app.goo.gl/TQHNgashqSLFApR57'
     },
     {
         coords: [-13.67460, -71.67780],
@@ -148,6 +185,11 @@ puntosFijos.forEach(punto => {
         <h3>${punto.titulo}</h3>
         <p>${punto.descripcion}</p>
         <img src="${punto.imagen}" alt="${punto.titulo}" style="width:100%; height:auto;" />
+         <p>
+                <a href="${punto.enlace}" target="_blank" rel="noopener noreferrer" style="color: blue; text-decoration: underline; font-weight: bold;">
+                    Ver en 360º
+                </a>
+            </p>
     `;
 
     L.marker(punto.coords)

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comisaría de Andahuaylillas",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.673181747,
+        "y longitud": -71.677601226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.677601226,
+          -13.673181747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Municipalidad distrital de Andahuaylillas",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.673303585999994,
+        "y longitud": -71.677688062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.677688062,
+          -13.673303585999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Municipalidad provincial Quispicanchi",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.687926810000004,
+        "y longitud": -71.62511006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62511006,
+          -13.687926810000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fiscalía de la nación",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.688076762855188,
+        "y longitud": -71.62673591739207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62673591739207,
+          -13.688076762855188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ministry of Culture headquarters office PikiLlaq'ta",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.617368699999993,
+        "y longitud": -71.7153021
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7153021,
+          -13.617368699999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Comunal Virgen Purificada",
+        "tipo": "Administración pública y servicios del Estado",
+        "x latitud": -13.685102200000003,
+        "y longitud": -71.6362429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6362429,
+          -13.685102200000003
+        ]
+      }
+    }
+  ]
+}

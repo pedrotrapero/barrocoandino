@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unidad de servicios educativos",
+        "tipo": "Educación",
+        "x latitud": -13.689637954166463,
+        "y longitud": -71.641044027826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.641044027826,
+          -13.689637954166463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "colegio Fe y Alegría primaria",
+        "tipo": "Educación",
+        "x latitud": -13.676678605124536,
+        "y longitud": -71.67806865200552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67806865200552,
+          -13.676678605124536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colegio Fe y alegria secundaria",
+        "tipo": "Educación",
+        "x latitud": -13.676541481049702,
+        "y longitud": -71.67612531163311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67612531163311,
+          -13.676541481049702
+        ]
+      }
+    }
+  ]
+}

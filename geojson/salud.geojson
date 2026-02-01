@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaru medicina integrativa holistica",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.672528894000004,
+        "y longitud": -71.6746746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6746746,
+          -13.672528894000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "botica",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.672364052,
+        "y longitud": -71.674376205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.674376205,
+          -13.672364052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "centro de salud Andahuaylillas",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.671672452424394,
+        "y longitud": -71.67402461576508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67402461576508,
+          -13.671672452424394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botica Huacarpay",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.610868600000002,
+        "y longitud": -71.7335081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7335081,
+          -13.610868600000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de salud",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.685021443646432,
+        "y longitud": -71.62390539174986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62390539174986,
+          -13.685021443646432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "botica",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.648666799999996,
+        "y longitud": -71.6888438
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6888438,
+          -13.648666799999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina temperada",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.69124296849964,
+        "y longitud": -71.6275125438443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6275125438443,
+          -13.69124296849964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina temperada",
+        "tipo": "Salud y bienestar",
+        "x latitud": -13.670200931333433,
+        "y longitud": -71.67168080727333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67168080727333,
+          -13.670200931333433
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "parque de la familia - salida a Urcos",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.688907001,
+        "y longitud": -71.627455987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.627455987,
+          -13.688907001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque de la familia - Mun Urcos",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.689932433737068,
+        "y longitud": -71.62862193540529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62862193540529,
+          -13.689932433737068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "laguna de Urcos",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.687872408999997,
+        "y longitud": -71.630939171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.630939171,
+          -13.687872408999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batán Orco",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.690558887000005,
+        "y longitud": -71.644599997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.644599997,
+          -13.690558887000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laguna Comercolcha",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.636315796499819,
+        "y longitud": -71.68446515290717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68446515290717,
+          -13.636315796499819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laguna de Huacarpay",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.619767300000001,
+        "y longitud": -71.7210131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7210131,
+          -13.619767300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balneario de Huacarpay Cusco (Playa)",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.618373699999996,
+        "y longitud": -71.7195655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7195655,
+          -13.618373699999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Pikillacta",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.615924500000004,
+        "y longitud": -71.7182843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7182843,
+          -13.615924500000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cielo Punku",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.685823699999997,
+        "y longitud": -71.6383447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6383447,
+          -13.685823699999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urcos Lagoon",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.6893852,
+        "y longitud": -71.62881150000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62881150000001,
+          -13.6893852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wiraqucha",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.669443999999991,
+        "y longitud": -71.644444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.644444,
+          -13.669443999999991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cañón de los Espejos Turquesa de Muñapata",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.681872199999994,
+        "y longitud": -71.5894287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5894287,
+          -13.681872199999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cristo Mirador de Burgos",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.691135079311787,
+        "y longitud": -71.62348952365375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62348952365375,
+          -13.691135079311787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Tongoganga",
+        "tipo": "Naturaleza y miradores (paisaje)",
+        "x latitud": -13.685801660474025,
+        "y longitud": -71.62486927969555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62486927969555,
+          -13.685801660474025
+        ]
+      }
+    }
+  ]
+}

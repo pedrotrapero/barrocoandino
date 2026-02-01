@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa parroquial",
+        "tipo": "Religioso",
+        "x latitud": -13.67390342168547,
+        "y longitud": -71.67804225924581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67804225924581,
+          -13.67390342168547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla posa 2",
+        "tipo": "Religioso",
+        "x latitud": -13.673811794000004,
+        "y longitud": -71.678022332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.678022332,
+          -13.673811794000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla de la Virgen Purificada de Canincunca",
+        "tipo": "Religioso",
+        "x latitud": -13.687457699999998,
+        "y longitud": -71.6354352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6354352,
+          -13.687457699999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla Señor De Raqchi",
+        "tipo": "Religioso",
+        "x latitud": -13.596884499999996,
+        "y longitud": -71.7569526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7569526,
+          -13.596884499999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla Virgen Asunta",
+        "tipo": "Religioso",
+        "x latitud": -13.598047099999995,
+        "y longitud": -71.7622477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7622477,
+          -13.598047099999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa retiros de la parroquia de Andahuaylillas",
+        "tipo": "Religioso",
+        "x latitud": -13.674239214496595,
+        "y longitud": -71.67824159971117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67824159971117,
+          -13.674239214496595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa PArroquial de Huaro",
+        "tipo": "Religioso",
+        "x latitud": -13.690582486039425,
+        "y longitud": -71.64043531682806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64043531682806,
+          -13.690582486039425
+        ]
+      }
+    }
+  ]
+}

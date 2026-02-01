@@ -1,24 +1,357 @@
 {
-"type": "FeatureCollection",
-"name": "patrimonio",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "museo ritos andinos, taller joyería kamaq maki", "y longitud": -71.67739838, "x latitud": -13.67446399, "tipo": "Museos" }, "geometry": { "type": "Point", "coordinates": [ -71.677398384, -13.674463991 ] } },
-{ "type": "Feature", "properties": { "name": "puente colonial", "y longitud": -71.73644252, "x latitud": -13.63499041, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.736442521, -13.634990406 ] } },
-{ "type": "Feature", "properties": { "name": "casa conservada", "y longitud": -71.67664938, "x latitud": -13.67401117, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.676649377, -13.674011167 ] } },
-{ "type": "Feature", "properties": { "name": "casa restaurada?", "y longitud": -71.6752428, "x latitud": -13.6734659, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.6752428, -13.6734659 ] } },
-{ "type": "Feature", "properties": { "name": "solo fachada antigua", "y longitud": -71.64108664, "x latitud": -13.68984061, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.641086638, -13.689840606 ] } },
-{ "type": "Feature", "properties": { "name": "casa hacienda", "y longitud": -71.64109569, "x latitud": -13.6905426, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.64109569, -13.690542599 ] } },
-{ "type": "Feature", "properties": { "name": "Laguna orucs", "y longitud": -71.63417861000001, "x latitud": -13.68738606, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.634178609, -13.687386058 ] } },
-{ "type": "Feature", "properties": { "name": "laguna de Urcos", "y longitud": -71.63093917, "x latitud": -13.68787241, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.630939171, -13.687872409 ] } },
-{ "type": "Feature", "properties": { "name": "bajada a la laguna de Urcos", "y longitud": -71.63518142, "x latitud": -13.68714728, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.63518142, -13.687147279 ] } },
-{ "type": "Feature", "properties": { "name": "Restos de ciudadela Wari", "y longitud": -71.63598474, "x latitud": -13.68720722, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.635984741, -13.687207218 ] } },
-{ "type": "Feature", "properties": { "name": "hacienda marabamba", "y longitud": -71.673132, "x latitud": -13.67735586, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.673131995, -13.677355857 ] } },
-{ "type": "Feature", "properties": { "name": "casa hacienda del calvario", "y longitud": -71.67617429000001, "x latitud": -13.67571919, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.67617429, -13.67571919 ] } },
-{ "type": "Feature", "properties": { "name": "cementerio nievo", "y longitud": -71.68477781, "x latitud": -13.67205066, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.684777811, -13.672050656 ] } },
-{ "type": "Feature", "properties": { "name": "cementerio antiguo", "y longitud": -71.68416694, "x latitud": -13.6725429, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.684166938, -13.672542902 ] } },
-{ "type": "Feature", "properties": { "name": "fabricas de tejas con ramas de eucalipto", "y longitud": -71.68722767, "x latitud": -13.64851673, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.687227674, -13.648516731 ] } },
-{ "type": "Feature", "properties": { "name": "laguna_urcos", "y longitud": -71.63096331, "x latitud": -13.6880646, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.630963311, -13.688064604 ] } },
-{ "type": "Feature", "properties": { "name": "mirador_cielo_punku", "y longitud": -71.63836654000001, "x latitud": -13.68586673, "tipo": "Patrimonio" }, "geometry": { "type": "Point", "coordinates": [ -71.638366543, -13.685866733 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "museo ritos andinos, taller joyería kamaq maki",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.674400710651975,
+        "y longitud": -71.67746826081112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67746826081112,
+          -13.674400710651975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "casa de los medallones s XVII",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.673489984103218,
+        "y longitud": -71.67781054374865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67781054374865,
+          -13.673489984103218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "puente colonial",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.634971530979092,
+        "y longitud": -71.73650711121927
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73650711121927,
+          -13.634971530979092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tañaraqay Pikillaqta",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.625073870297147,
+        "y longitud": -71.72490326737638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.72490326737638,
+          -13.625073870297147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa conservada",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.674090107219637,
+        "y longitud": -71.67654005576124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67654005576124,
+          -13.674090107219637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa restaurada?",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.673465899999993,
+        "y longitud": -71.6752428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6752428,
+          -13.673465899999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "solo fachada antigua",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.689820036954394,
+        "y longitud": -71.64114293699473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64114293699473,
+          -13.689820036954394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "casa hacienda",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.690453954808664,
+        "y longitud": -71.64106201131122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64106201131122,
+          -13.690453954808664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "iglesia de Urcos",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.688524102050227,
+        "y longitud": -71.62587945390811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62587945390811,
+          -13.688524102050227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hacienda marabamba",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.676671861317569,
+        "y longitud": -71.67241059796592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67241059796592,
+          -13.676671861317569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "casa hacienda del calvario",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.675496190970843,
+        "y longitud": -71.67610620418012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67610620418012,
+          -13.675496190970843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cementerio nievo",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.672050656000001,
+        "y longitud": -71.684777811
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.684777811,
+          -13.672050656000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cementerio antiguo",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.672542901999995,
+        "y longitud": -71.684166938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.684166938,
+          -13.672542901999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque circuito Comercolca",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.640856198999995,
+        "y longitud": -71.68206878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68206878,
+          -13.640856198999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia San Juan Bautista Huaro",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.690883310518458,
+        "y longitud": -71.64085520123112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64085520123112,
+          -13.690883310518458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia San Pedro (Andahuailiyas)",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.674479628000002,
+        "y longitud": -71.677770875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.677770875,
+          -13.674479628000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Mayor de Cusco",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.516768100000002,
+        "y longitud": -71.9787795
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9787795,
+          -13.516768100000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historic Sanctuary of Machu Picchu",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.163198800000004,
+        "y longitud": -72.5452621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5452621,
+          -13.163198800000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacienda Villa Hermosa de Andahuaylillas",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.6716672,
+        "y longitud": -71.6785401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6785401,
+          -13.6716672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacienda la Rinconada de Andahuaylillas",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.671422182255238,
+        "y longitud": -71.677329081176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.677329081176,
+          -13.671422182255238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pikillacta",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.612881999999994,
+        "y longitud": -71.7173576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7173576,
+          -13.612881999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumicolca",
+        "tipo": "Patrimonio cultural / arqueológico (atractivos)",
+        "x latitud": -13.621751099999997,
+        "y longitud": -71.70757510000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.70757510000001,
+          -13.621751099999997
+        ]
+      }
+    }
+  ]
 }

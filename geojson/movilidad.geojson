@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ingreso huacarpay",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.610363379381235,
+        "y longitud": -71.73573831722581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73573831722581,
+          -13.610363379381235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingreso circuito ciclístico",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.611581760505377,
+        "y longitud": -71.73650261534796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73650261534796,
+          -13.611581760505377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Servicio de bicicletas y motos",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.674420553760687,
+        "y longitud": -71.67604775785314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67604775785314,
+          -13.674420553760687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradero huaro Urcos",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.69099345936547,
+        "y longitud": -71.64197242525093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64197242525093,
+          -13.69099345936547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradero Urcos Huaro",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.687513427999994,
+        "y longitud": -71.626427695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.626427695,
+          -13.687513427999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bajada a la laguna de Urcos",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.687147278999992,
+        "y longitud": -71.63518142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63518142,
+          -13.687147278999992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camino a la mano",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.686877879999995,
+        "y longitud": -71.637224928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.637224928,
+          -13.686877879999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camino a Yutto",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.680525399999999,
+        "y longitud": -71.690684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.690684,
+          -13.680525399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "estadio municipal Andahuaylillas",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.67145440266602,
+        "y longitud": -71.67294335871576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67294335871576,
+          -13.67145440266602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista C1",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.671043680000011,
+        "y longitud": -71.667911746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.667911746,
+          -13.671043680000011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B97",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.673340399000004,
+        "y longitud": -71.654237844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.654237844,
+          -13.673340399000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B98",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.672881056999994,
+        "y longitud": -71.654657945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.654657945,
+          -13.672881056999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B 99",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.673094764999997,
+        "y longitud": -71.656294763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.656294763,
+          -13.673094764999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "desvío a acopampa",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.672153275000005,
+        "y longitud": -71.661543511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.661543511,
+          -13.672153275000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B  100",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.676155070999993,
+        "y longitud": -71.667224094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.667224094,
+          -13.676155070999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B1",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.691165700000003,
+        "y longitud": -71.6412349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6412349,
+          -13.691165700000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B 3",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.681242894999999,
+        "y longitud": -71.6501344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6501344,
+          -13.681242894999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B2",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.680347370999996,
+        "y longitud": -71.649337113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.649337113,
+          -13.680347370999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista B1",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.680643815999995,
+        "y longitud": -71.6480349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6480349,
+          -13.680643815999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista 3",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.676835100000009,
+        "y longitud": -71.652338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.652338,
+          -13.676835100000009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ruta ciclista 2",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.681259000000004,
+        "y longitud": -71.6469306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6469306,
+          -13.681259000000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruta ciclista 1",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.69176979999999,
+        "y longitud": -71.637815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.637815,
+          -13.69176979999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Servicentro Custer",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.668551099999995,
+        "y longitud": -71.67707750000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67707750000001,
+          -13.668551099999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavadero huacarpay",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.612958600000002,
+        "y longitud": -71.7252809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7252809,
+          -13.612958600000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucre",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.6136168,
+        "y longitud": -71.7242871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7242871,
+          -13.6136168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grifo Petromotors",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.609426300000006,
+        "y longitud": -71.7386869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7386869,
+          -13.609426300000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grifo Sagitario",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.609877600000004,
+        "y longitud": -71.73666380000002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.73666380000002,
+          -13.609877600000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal de buses Cusco Urcos",
+        "tipo": "Movilidad, accesos e infraestructura",
+        "x latitud": -13.689567077651137,
+        "y longitud": -71.62497202141157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62497202141157,
+          -13.689567077651137
+        ]
+      }
+    }
+  ]
+}

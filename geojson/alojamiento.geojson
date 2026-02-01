@@ -1,11 +1,197 @@
 {
-"type": "FeatureCollection",
-"name": "alojamiento",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "name": "hospedaje y restaurante el nogal", "y longitud": -71.67737827000001, "x latitud": -13.67316481, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.677378267, -13.673164807 ] } },
-{ "type": "Feature", "properties": { "name": "Casa del sol, eventos y hotel", "y longitud": -71.67752009, "x latitud": -13.67300974, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.677520089, -13.673009738 ] } },
-{ "type": "Feature", "properties": { "name": "quinta campestre", "y longitud": -71.72969442, "x latitud": -13.63187874, "tipo": "Hotel" }, "geometry": { "type": "Point", "coordinates": [ -71.729694419, -13.631878736 ] } },
-{ "type": "Feature", "properties": { "name": "hospedaje", "y longitud": -71.62518617000001, "x latitud": -13.68868223, "tipo": "Hoteles" }, "geometry": { "type": "Point", "coordinates": [ -71.625186168, -13.688682232 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del sol, eventos y hotel",
+        "tipo": "Alojamiento",
+        "x latitud": -13.673036075663585,
+        "y longitud": -71.67748624785875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67748624785875,
+          -13.673036075663585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hospedaje",
+        "tipo": "Alojamiento",
+        "x latitud": -13.688602779798098,
+        "y longitud": -71.62522305669732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62522305669732,
+          -13.688602779798098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casona Buenavista Andahuaylillas",
+        "tipo": "Alojamiento",
+        "x latitud": -13.675653099999998,
+        "y longitud": -71.6758417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6758417,
+          -13.675653099999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospedaje CHISS",
+        "tipo": "Alojamiento",
+        "x latitud": -13.671614006097672,
+        "y longitud": -71.67681954909456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67681954909456,
+          -13.671614006097672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospedaje QORICHASKA",
+        "tipo": "Alojamiento",
+        "x latitud": -13.671608300000006,
+        "y longitud": -71.6763941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6763941,
+          -13.671608300000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bella Estadía - Andahuaylillas",
+        "tipo": "Alojamiento",
+        "x latitud": -13.6705769,
+        "y longitud": -71.6779177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6779177,
+          -13.6705769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aventura Andina Hospedaje",
+        "tipo": "Alojamiento",
+        "x latitud": -13.676259739781372,
+        "y longitud": -71.66671582764477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.66671582764477,
+          -13.676259739781372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Yabar Hoteles bar restaurant campestre",
+        "tipo": "Alojamiento",
+        "x latitud": -13.687362293973507,
+        "y longitud": -71.62777184107364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62777184107364,
+          -13.687362293973507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hotel \"Libertad\" con cochera urcos",
+        "tipo": "Alojamiento",
+        "x latitud": -13.684607823486216,
+        "y longitud": -71.62311112115233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62311112115233,
+          -13.684607823486216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospedaje Medrano",
+        "tipo": "Alojamiento",
+        "x latitud": -13.686665800000007,
+        "y longitud": -71.6252353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6252353,
+          -13.686665800000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospedaje El Cisne Azul-URCOS",
+        "tipo": "Alojamiento",
+        "x latitud": -13.686832700000005,
+        "y longitud": -71.6250388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6250388,
+          -13.686832700000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospedaje | La Estancia | con Cochera Urcos",
+        "tipo": "Alojamiento",
+        "x latitud": -13.689887100000005,
+        "y longitud": -71.6261332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6261332,
+          -13.689887100000005
+        ]
+      }
+    }
+  ]
 }

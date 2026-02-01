@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cenecape Ccaijo",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.673937279657656,
+        "y longitud": -71.67806447854007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67806447854007,
+          -13.673937279657656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "artesanías",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674193512259697,
+        "y longitud": -71.6772919902373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6772919902373,
+          -13.674193512259697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "abarrotes mery alimentacion",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674140162975371,
+        "y longitud": -71.67726458394715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67726458394715,
+          -13.674140162975371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market, Licorería y hotel",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.673142653999998,
+        "y longitud": -71.677417494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.677417494,
+          -13.673142653999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Destilería Ccaijo",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.671472386151246,
+        "y longitud": -71.67324233415768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67324233415768,
+          -13.671472386151246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licorería 2",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.673927442999998,
+        "y longitud": -71.675581187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.675581187,
+          -13.673927442999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Licorería 3",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.673200642000005,
+        "y longitud": -71.675005518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.675005518,
+          -13.673200642000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bodega",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.672686894999995,
+        "y longitud": -71.674610563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.674610563,
+          -13.672686894999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnicería",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.672324353763877,
+        "y longitud": -71.6744809467027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6744809467027,
+          -13.672324353763877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ferreteria",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.672283890922124,
+        "y longitud": -71.67444048386093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67444048386093,
+          -13.672283890922124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Multiservicios, lubricantes baterías autos motos",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.672145642879437,
+        "y longitud": -71.67424603742691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67424603742691,
+          -13.672145642879437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mercado galería",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.671380220789459,
+        "y longitud": -71.67380656600669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67380656600669,
+          -13.671380220789459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda, fotocopias",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.689952665157945,
+        "y longitud": -71.64120138332171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64120138332171,
+          -13.689952665157945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agente BCP",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.68758085900001,
+        "y longitud": -71.625327989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.625327989,
+          -13.68758085900001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado Urcos",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.688423258000007,
+        "y longitud": -71.625133529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.625133529,
+          -13.688423258000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fabricas de tejas con ramas de eucalipto",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.648778351762303,
+        "y longitud": -71.68839904030072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68839904030072,
+          -13.648778351762303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "abarrotes (comercio)",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674264322232771,
+        "y longitud": -71.675906137907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.675906137907,
+          -13.674264322232771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda Mary Luz",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.67554520000001,
+        "y longitud": -71.6778603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6778603,
+          -13.67554520000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agente Banco de la Nación",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.673538239016962,
+        "y longitud": -71.67687949404522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67687949404522,
+          -13.673538239016962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abarrotes - Cerveza - Licorería - Hielo",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.672352199999999,
+        "y longitud": -71.6779929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6779929,
+          -13.672352199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA ESCONDIDA",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.67601396548323,
+        "y longitud": -71.67452665472798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67452665472798,
+          -13.67601396548323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TAQ'E Casona de Eventos",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.671334,
+        "y longitud": -71.6755234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6755234,
+          -13.671334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COMCASAS EIRL",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.676313600000004,
+        "y longitud": -71.6674985
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6674985,
+          -13.676313600000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banco de la Nacion",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.687028850184921,
+        "y longitud": -71.6264358179835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6264358179835,
+          -13.687028850184921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feria Virgen Del Carmen Huaro",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.692413299999991,
+        "y longitud": -71.64412500000002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64412500000002,
+          -13.692413299999991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado de abastos de Oropesa",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.598689299999997,
+        "y longitud": -71.7649472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7649472,
+          -13.598689299999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tienda artesanía Templo",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674267902118606,
+        "y longitud": -71.67778259775903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67778259775903,
+          -13.674267902118606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taller de Artesanía",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674325277362636,
+        "y longitud": -71.67795739210707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67795739210707,
+          -13.674325277362636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taller de restauración",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674925048808802,
+        "y longitud": -71.67794938625907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67794938625907,
+          -13.674925048808802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "taller luteria sinfonia",
+        "tipo": "Comercio y servicios privados",
+        "x latitud": -13.674498737402685,
+        "y longitud": -71.67810683460314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67810683460314,
+          -13.674498737402685
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pollería",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.673853167,
+        "y longitud": -71.675510779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.675510779,
+          -13.673853167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurante menú",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.689467946999997,
+        "y longitud": -71.640908606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.640908606,
+          -13.689467946999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "restaurante Karina I",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.687758679960233,
+        "y longitud": -71.62642233036841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.62642233036841,
+          -13.687758679960233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cafe sixtina",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.673076282005553,
+        "y longitud": -71.67752010583095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67752010583095,
+          -13.673076282005553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eco Tampu Andahuaylillas",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.674970799999999,
+        "y longitud": -71.6798406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6798406,
+          -13.674970799999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Shamy Andahuaylillas",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.674842041695928,
+        "y longitud": -71.67732458530459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67732458530459,
+          -13.674842041695928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHIRI CONCHA RESTAURANT",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.67453931969461,
+        "y longitud": -71.67705483302618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67705483302618,
+          -13.67453931969461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Nogal",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.673121621609187,
+        "y longitud": -71.67745796282004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.67745796282004,
+          -13.673121621609187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panadería Virgen del Carmen",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.673070899999995,
+        "y longitud": -71.6769809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6769809,
+          -13.673070899999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Muña Fast Food & Grill Hause",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.670861699999994,
+        "y longitud": -71.6738208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6738208,
+          -13.670861699999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cevicheria ``LA LANGOSTA FELIZ`` y calderia ``D IKER``",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.670612399999989,
+        "y longitud": -71.6741689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6741689,
+          -13.670612399999989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panificadora Ermita",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.601303499999995,
+        "y longitud": -71.7621915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7621915,
+          -13.601303499999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panificadora D' LUCAS Y PETTY",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.686018777764652,
+        "y longitud": -71.63594308717353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63594308717353,
+          -13.686018777764652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antuko's Restobar",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.687617500000002,
+        "y longitud": -71.6274639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6274639,
+          -13.687617500000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CEVICHERIA \"EL CANGREJO AZUL\"",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.686563900000003,
+        "y longitud": -71.6244485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6244485,
+          -13.686563900000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pollos Quillabanba \"Arizaca\"",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.685608100000007,
+        "y longitud": -71.6231651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6231651,
+          -13.685608100000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restaurant Viledana",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.6852882,
+        "y longitud": -71.6225027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6225027,
+          -13.6852882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panadería Huaro",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.691447100000005,
+        "y longitud": -71.6407274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6407274,
+          -13.691447100000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Casa del Cholo Restaurante Campestre",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.684350299999995,
+        "y longitud": -71.6038281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6038281,
+          -13.684350299999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panaderia Oropesa",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.6005407,
+        "y longitud": -71.7655039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7655039,
+          -13.6005407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panificadora Valencia",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.598787599999996,
+        "y longitud": -71.7713455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7713455,
+          -13.598787599999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panificadora \"Cachito Amarillo\"",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.5999809,
+        "y longitud": -71.7675194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7675194,
+          -13.5999809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panificadora SUMAQ T'ANTA - Fredy Valdivia.",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.596974800000002,
+        "y longitud": -71.7631952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7631952,
+          -13.596974800000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polleria El Gallo",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.597585099999996,
+        "y longitud": -71.76463090000001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.76463090000001,
+          -13.597585099999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANADERÍA GABY",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.597032700000002,
+        "y longitud": -71.7643885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7643885,
+          -13.597032700000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANIFICADORA SOTA",
+        "tipo": "Alimentación y bebida (gastronomía)",
+        "x latitud": -13.596806500000008,
+        "y longitud": -71.7642932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7642932,
+          -13.596806500000008
+        ]
+      }
+    }
+  ]
+}
